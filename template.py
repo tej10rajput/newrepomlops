@@ -11,7 +11,7 @@ list_of_files = [
    "tests/__init__.py",
    "tests/unit/__init__.py",
    "tests/integration/__init__.py",
-   "init_setup.sh",
+   "init_setup.bat",
    "requirements.txt", 
    "setup.py",
    "setup.cfg",
